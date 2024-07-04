@@ -1,0 +1,40 @@
+name: mood_app
+description: "App by Arlan Nurmashev"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  slide_switcher: ^1.1.2
+  flutter_bloc: ^8.1.6
+  go_router: ^14.2.0
+  calendar_date_picker2: ^1.1.5
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+  
+
+flutter:
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: fonts/Nunito-Black.ttf
+        - asset: fonts/Nunito-Bold.ttf
+        - asset: fonts/Nunito-Medium.ttf
+        - asset: fonts/Nunito-Regular.ttf
+        - asset: fonts/Nunito-SemiBold.ttf
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+
+

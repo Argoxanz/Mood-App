@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/adel/Desktop/mood_app/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/adel/Desktop/mood_app/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/adel/Desktop/mood_app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h
