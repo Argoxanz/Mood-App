@@ -27,6 +27,7 @@ class StatsScreen extends StatelessWidget {
             ),
           )
         ],
+        centerTitle: true,
         title: Text(
           "${now.day} ${months[now.month - 1]} ${now.hour.toString().padLeft(2, "0")}:${now.minute.toString().padLeft(2, "0")}",
           style: const TextStyle(fontWeight: FontWeight.bold, color: grey2),
