@@ -4,5 +4,6 @@ An app to track your mood everyday!
 
 
 
-https://github.com/Argoxanz/Mood-App/assets/147998192/a04796df-13dc-4f81-b5d7-e0d7aba0edf3
+
+https://github.com/Argoxanz/Mood-App/assets/147998192/aa4c67be-2faf-4ad1-b263-616173c19e92
 
